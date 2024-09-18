@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "接近风的地方",
     description: "welcome to my-blog!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
